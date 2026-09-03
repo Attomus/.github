@@ -20,6 +20,7 @@ Public components:
 
 - `semafore-crypto` – TypeScript implementation of SemaFore's cryptographic wire format. Wire-compatible with the iOS Swift and Android Kotlin clients.
 - `semafore-github-action` – GitHub Action that sends end-to-end encrypted notifications from your workflows into your SemaFore organisation. Encryption happens in the GitHub Actions runner – message contents never leave your trust boundary.
+- `semafore-starter-workflows` – Copy-ready GitHub Actions workflows for deployment, pull request, release, and security notifications through SemaFore.
 
 ---
 
