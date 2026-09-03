@@ -1,10 +1,10 @@
 End-to-end encrypted messaging and authentication, with no third-party cryptographic dependencies.
 
-We're a UK cybersecurity company. These are our open-source products – find out more about what we do at [attomus.com](https://attomus.com/).
+We're a UK cybersecurity company. Signet and SemaFore are our open-source products – find out more about what we do at [attomus.com](https://attomus.com/).
 
 ## Signet – authenticator
 
-TOTP and HOTP done correctly. `attomus-otp` contains our open-source Swift and Kotlin libraries implementing RFC 6238 and RFC 4226 from the standards documents, validated against the RFC test vectors. It is the cryptographic core of Signet on iOS and Android.
+TOTP and HOTP done correctly. `attomus-otp` contains our open-source Swift and Kotlin libraries implementing RFC 6238 and RFC 4226 from the standards documents, validated against the RFC test vectors, with weekly libFuzzer campaigns against the Swift core. It is the cryptographic core of Signet on iOS and Android.
 
 The Signet mobile apps build on this library and add biometric-protected secret storage, encrypted backup, and zero-telemetry operation.
 
