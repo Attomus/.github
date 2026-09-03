@@ -1,6 +1,6 @@
 End-to-end encrypted messaging and authentication, with no third-party cryptographic dependencies.
 
-We're a UK cybersecurity company. These are our open-source products – find out more about what we do at [attomus.com](https://attomus.com/).
+We're a UK cybersecurity company. Signet and SemaFore are our open-source products – find out more about what we do at [attomus.com](https://attomus.com/).
 
 ## Signet – authenticator
 
