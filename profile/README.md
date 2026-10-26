@@ -22,6 +22,12 @@ Public components:
 - `semafore-github-action` – GitHub Action that sends end-to-end encrypted notifications from your workflows into your SemaFore organisation. Encryption happens in the GitHub Actions runner – message contents never leave your trust boundary.
 - `semafore-starter-workflows` – Copy-ready GitHub Actions workflows for deployment, pull request, release, and security notifications through SemaFore.
 
+## Attomus Labs — developer infrastructure
+
+Practical tools from our engineering work, shared for developers to use, inspect and build on. Labs is our home for developer infrastructure and experiments, alongside our Signet and SemaFore products.
+
+- [Rationbook](https://github.com/Attomus/rationbook) — a native macOS menu-bar app and CLI for Codex and Claude capacity, with local usage history, reserve warnings and background refresh. [Download](https://github.com/Attomus/rationbook/releases/latest) · [Homebrew](https://github.com/Attomus/homebrew-tap)
+
 ---
 
 - Website: [attomus.com](https://attomus.com/)
